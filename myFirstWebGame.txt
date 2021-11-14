@@ -1,9 +1,3 @@
 19th Oct '21
-I'm new to coding and all this tech stuff. During my 22 years in jail I had very limited access to .NET and HTML media. Upon the recent Covid19, I created a simple dice, map and journal rpg type adventure game to occupy myself whilst I was on punishment. I thought 'when i get released; I will attempt to code it into a simple webpage game.' I'm out now and I think I may have bitten off more than I can chew!
+I'm new to coding and all this tech stuff. 
 
-I recently downloaded 'Blender' in an attempt to create 3D objects for my game. I don't know how it works yet, but it looks complex! I watched a cool Youtube video and though I know a bit of JavaScript I hardly recognised any of the commands he used. So I will need to learn more of that.
-
-I did an art course to improve my drawing skills, but that did not help much, other than furthering my belief that I suck at art! Maybe there are inages I can use in the public domain?
-
-So where do I start? I need help, help, help. But first I want to struggle on, alone. I'm really lost at sea, but I can swim very well, if I need to. Is this a blog? Feels like one, even though I've never read an online blog. Haven't done much except jail! But I;m a bit free now so...where to start!
-SiO
