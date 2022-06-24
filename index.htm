@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>5realms main</title>
+<style></style>
+
+<script>
+function init(){
+	document.getElementById("bt2").disabled = false;
+	document.getElementById("bt3").disabled = true;
+	document.getElementById("bt4").disabled = true;
+	document.getElementById("bt5").disabled = true;
+	alert("init Function Fired!");
+}
+</script>
+<link rel="stylesheet" href="indexStyles.css"> 
+<meta http-equiv="refresh" content="25">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+</head>
+
+ <body>	 <!--onload="init()"> -->
+
+<h1 class="cents">5realms: The Search for the Void Dragon</h1><br><br>
+
+	<div id ="moveTheDragon">
+		 <img src="flyRedBlackBackground.gif" alt="Red Flying Dragon" width="500" height="500">
+	</div>
+	
+<div>
+	<fieldset  class="lefty">
+	<legend>GAME OPTIONS</legend>
+	<input type="button" value="New Game" id="bt1">
+    <input type="button" value="Continue" id="bt2">
+	<input type="button" value="View High Score Table" id="bt3">
+	<input type="button" value="Bestiary" id="bt4">
+	<input type="button" value="Tutorials" id="bt5">
+	</fieldset>
+</div>
+<script>
+//init();
+
+function startNewGame(){
+	alert("New Game initialised!");
+	window.location.href = "./newGame.htm";
+	}
+
+</script>
+<div id="myNavs" class="navs">
+	<a href="C:\Users\Simon Osaka\Documents\5realms\Tests\html tests\dragonMoves.html">Dragon Moves</a>
+	<a href="C:\Users\Simon Osaka\Documents\5realms\myStyles\marqueeTest1.htm">Marquee Test</a>
+	<a href="animSailing.html">SailBoat</a>
+	<a href="imgChanger.html">Image Changer</a>
+	<a href="audVidTest.html">audio/Video Test</a>
+</div>
+</body>
+</html>
+
+
